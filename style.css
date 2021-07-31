@@ -1,0 +1,19 @@
+#sponsor_img {
+    position: relative;
+    text-align: center;
+}
+
+figcaption {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color:yellow;
+    opacity: 0.5;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+}
