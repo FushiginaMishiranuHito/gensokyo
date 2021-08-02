@@ -6,7 +6,9 @@
 figcaption {
     position: absolute;
     top: 50%;
-    width: 100%;
+    left: 25%;
+    width: 50%;
+    margin: 0 auto;
     text-align: center;
     background-color: black;
     color:yellow;
