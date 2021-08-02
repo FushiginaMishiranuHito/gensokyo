@@ -1,0 +1,39 @@
+* {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: whitesmoke;
+}
+
+a {
+    color: aquamarine;
+}
+
+h3 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#description p {
+    font-size: 21px;
+    color: gray;
+}
+
+#tent {
+    display: block;
+}
+
+#phone {
+    position: relative;
+    top: 30px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
