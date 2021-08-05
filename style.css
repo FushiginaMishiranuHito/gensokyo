@@ -15,6 +15,12 @@ figcaption {
     opacity: 0.5;
 }
 
+#raymoo {
+    max-width: 50%;
+    height: auto;
+    display: inline-block;
+}
+
 video {
     display: block;
     margin: 0 auto;
