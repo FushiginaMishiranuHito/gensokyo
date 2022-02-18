@@ -1,0 +1,19 @@
+const { default: mongoose } = require('mongoose');
+const moongoose = require('mongoose');
+
+const PostSchema = mongoose.Schema({
+    name: {
+        type: String,
+        required: true
+    },
+    age: {
+        type: String,
+        required: true
+    },
+    description: {
+        type: String,
+        required: true
+    },
+})
+
+module.exports = mongoose.model('Posts', PostSchema);
